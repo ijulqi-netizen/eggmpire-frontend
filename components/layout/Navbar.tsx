@@ -29,7 +29,10 @@ const navLinks: NavLink[] = [
     href: "#protocol",
     items: [
       { label: "Documentation V4.0", href: "#" },
-      { label: "Whitepaper V1.2", href: "#" },
+      {
+  label: "Whitepaper V1.2",
+  href: "https://eggmpire.gitbook.io/whitepaper/"
+},
       { label: "Security Audit", href: "#" },
       // { label: "Bug Bounty", href: "#" },
     ],
