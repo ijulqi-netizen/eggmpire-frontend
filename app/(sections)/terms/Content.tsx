@@ -12,7 +12,7 @@ export default function TermsContent() {
       {/* Glass inner glow */}
       <div className="absolute inset-0 bg-linear-to-b from-white/5 to-transparent pointer-events-none rounded-4xl" />
       <h2 className="text-xl sm:text-2xl md:text-4xl font-bold text-center leading-snug">
-        Terms & Conditions – PT Eggmpire Bumi Lestari
+        Terms & Conditions – Equator Bumi Lestari Foundation
       </h2>
 
       <motion.div
@@ -24,7 +24,7 @@ export default function TermsContent() {
         <TermsBlock title="INTRODUCTION">
           <p>
             These Terms and Conditions (“T&C”) govern the use of services
-            provided by Yayasan Equator Bumi Lestari (“We,” “Us,” “Our,” or the
+            provided by Equator Bumi Lestari Foundation (“We,” “Us,” “Our,” or the
             “Platform”), which facilitates users in expressing interest (leads)
             in conducting cryptocurrency asset swaps. Following complete
             registration, the swap process will proceed through a vesting
@@ -45,12 +45,12 @@ export default function TermsContent() {
             blockchain.
           </TermsItem>
           <TermsItem label="1.3.">
-            Yayasan Equator Bumi Lestari does not operate as a crypto asset
+            Equator Bumi Lestari Foundation does not operate as a crypto asset
             exchange, does not provide custodial wallet services, and never
             holds Users’ crypto assets.
           </TermsItem>
           <TermsItem label="1.4.">
-            Yayasan Equator Bumi Lestari facilitates complete account registration,
+            Equator Bumi Lestari Foundation facilitates complete account registration,
             identity verification (KYC), and initial registration processes, and
             partners in executing social and climate action initiatives.
           </TermsItem>
@@ -65,7 +65,7 @@ export default function TermsContent() {
 
           <TermsItem label="2.2.">
             Purpose of Data Collection: The purpose of this comprehensive data
-            collection and sharing is to enable PT Eggmpire Bumi Lestari, as the
+            collection and sharing is to enable Equator Bumi Lestari Foundation, as the
             token issuer, to:
           </TermsItem>
           <TermsItem>

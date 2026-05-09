@@ -15,14 +15,14 @@ function getBreadcrumbSchema(items: { name: string; url: string }[]) {
 }
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | PT Eggmpire Bumi Lestari",
+  title: "Privacy Policy | Equator Bumi Lestari Foundation",
   description:
-    "Learn how PT Eggmpire Bumi Lestari collects, uses, and protects your personal data. Read our privacy policy regarding EGGM Token ecosystem and user data security.",
+    "Learn how Equator Bumi Lestari Foundation collects, uses, and protects your personal data. Read our privacy policy regarding EGGM Token ecosystem and user data security.",
 
   keywords: ["privacy policy", "eggmpire", "EGGM token", "data protection"],
 
   openGraph: {
-    title: "Privacy Policy | PT Eggmpire Bumi Lestari",
+    title: "Privacy Policy | Equator Bumi Lestari Foundation",
     description:
       "Understand how your data is handled, stored, and protected within the Eggmpire ecosystem.",
     url: "https://www.eggmpire.com/privacy-policy",

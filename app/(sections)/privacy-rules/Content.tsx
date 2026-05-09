@@ -12,7 +12,7 @@ export default function RulesContent() {
       {/* Glass inner glow */}
       <div className="absolute inset-0 bg-linear-to-b from-white/5 to-transparent pointer-events-none rounded-4xl" />
       <h2 className="text-xl sm:text-2xl md:text-4xl font-bold text-center leading-snug">
-        Privacy Policy of PT Eggmpire Bumi Lestari
+        Privacy Policy of Equator Bumi Lestari Foundation
       </h2>
 
       <motion.div
@@ -23,7 +23,7 @@ export default function RulesContent() {
       >
         <RulesBlock title="1. INTRODUCTION">
           <p>
-            This Privacy Policy explains how PT Eggmpire Bumi Lestari (“We,”
+            This Privacy Policy explains how Equator Bumi Lestari Foundation (“We,”
             “Us,” or “Our”) collects, uses, shares, and protects your personal
             information obtained through our website and interest registration
             forms (“Initial Services”). We are committed to protecting your
@@ -119,7 +119,7 @@ export default function RulesContent() {
             If you have any questions about this Privacy Policy, please contact:
           </RulesItem>
           <p>Data Privacy Officer</p>
-          <p>Yayasan Equator Bumi Lestari</p>
+          <p>Equator Bumi Lestari Foundation</p>
           <p>Email: admin@equator.id</p>
         </RulesBlock>
       </motion.div>
