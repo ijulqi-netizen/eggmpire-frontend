@@ -38,9 +38,9 @@ const navLinks: NavLink[] = [
     label: "Ecosystem Core",
     href: "#ecosystem",
     items: [
-      { label: "Dashboard v1.0", href: "/dashboard" },
-      { label: "Swap Engine", href: "/swap" },
-      { label: "Claim Portal", href: "/claim" },
+      { label: "Dashboard v1.0", href: "https://dashboard.eggmpire.com" },
+      { label: "Swap Engine", href: "https://swap.eggmpire.com" },
+      { label: "Claim Portal", href: "https://claim.eggmpire.com" },
       { label: "Lab Results", href: "#" },
     ],
   },
