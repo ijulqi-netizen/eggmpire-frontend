@@ -176,9 +176,10 @@ export default function Hero() {
                           className="flex-1 lg:flex-none"
                         >
                           <Link
-                            href="/#"
-                            className="flex items-center justify-center h-full w-full text-center px-4 xs:px-6 py-2.5 xs:py-3 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs xs:text-sm tracking-wide transition-colors rounded-[10px]"
-                          >
+  href="https://eggmpire.gitbook.io/whitepaper/"
+  target="_blank"
+  className="flex items-center justify-center h-full w-full"
+>
                             EGGM Whitepaper
                           </Link>
                         </motion.div>
