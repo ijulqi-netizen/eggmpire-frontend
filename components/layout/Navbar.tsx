@@ -267,7 +267,7 @@ export default function Navbar() {
           {/* Right side: CTA + hamburger */}
           <div className="flex items-center gap-2 xs:gap-3 shrink-0">
             <Link
-              href="/swap"
+              href="https://swap.eggmpire.com"
               className="px-3 xs:px-4 py-1 xs:py-1.5 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs tracking-widest uppercase rounded-full transition-colors whitespace-nowrap text-center"
             >
               <span>Own</span>
