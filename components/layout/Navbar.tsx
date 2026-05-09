@@ -214,7 +214,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="shrink-0">
             <Image
-              src="/icons/nav-logo-horizontal.svg"
+              src="/icons/logo-eggm-br-2a.png"
               alt="Eggmpire"
               width={148}
               height={38}

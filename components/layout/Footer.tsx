@@ -105,7 +105,7 @@ export default function Footer() {
             {/* Logo */}
             <div className="relative w-28 h-28">
               <Image
-                src="/icons/nav-logo-vertical.svg"
+                src="/icons/logo-eggm-br-1a.png"
                 alt="Eggmpire Logo"
                 fill
                 sizes="112px"

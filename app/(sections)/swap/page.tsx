@@ -43,11 +43,11 @@ export default function SwapPage() {
   const outputAmount = calculateOutput(inputAmount);
 
   const sourceToken = isSwapped
-    ? { label: "EGGM", icon: "/icons/eggmpire-logo.svg", color: "bg-gold" }
+    ? { label: "EGGM", icon: "/icons/logo-eggm-br.png", color: "bg-gold" }
     : { label: "USDC", icon: "/icons/usdc.svg", color: "bg-blue-500" };
   const targetToken = isSwapped
     ? { label: "USDC", icon: "/icons/usdc.svg", color: "bg-blue-500" }
-    : { label: "EGGM", icon: "/icons/eggmpire-logo.svg", color: "bg-gold" };
+    : { label: "EGGM", icon: "/icons/logo-eggm-br.png", color: "bg-gold" };
 
   return (
     <>

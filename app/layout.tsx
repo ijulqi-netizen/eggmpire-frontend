@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Eggmpire",
   description: "Company profile",
   icons: {
-    icon: "/favicon.svg",
+    icon: "/favicon-eggm-br.png",
   },
 };
 
