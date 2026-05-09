@@ -175,13 +175,14 @@ export default function Hero() {
                           variants={staggerItem}
                           className="flex-1 lg:flex-none"
                         >
-                          <Link
+<Link
   href="https://eggmpire.gitbook.io/whitepaper/"
   target="_blank"
-  className="flex items-center justify-center h-full w-full"
+  className="flex items-center justify-center h-full w-full text-center px-4 xs:px-6 py-2.5 xs:py-3 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs xs:text-sm tracking-wide transition-colors rounded-[10px]"
 >
-                            EGGM Whitepaper
-                          </Link>
+  EGGM Whitepaper
+</Link>
+
                         </motion.div>
                         <motion.div
                           variants={staggerItem}
