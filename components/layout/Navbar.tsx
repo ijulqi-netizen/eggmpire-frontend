@@ -28,14 +28,15 @@ const navLinks: NavLink[] = [
     label: "Protocol Matrix",
     href: "#protocol",
     items: [
-      { label: "Gallery", href: "#" },
-      {
-  label: "Whitepaper",
-  href: "https://eggmpire.gitbook.io/whitepaper/"
-},
-      { label: "Personal Carbon Calculator", href: "#" },
-      // { label: "Bug Bounty", href: "#" },
-    ],
+  { label: "Gallery", href: "#" },
+
+  {
+    label: "Whitepaper",
+    href: "https://eggmpire.gitbook.io/whitepaper/",
+  },
+
+  { label: "Personal Carbon Calculator", href: "#" },
+],
   },
   {
     label: "Ecosystem Core",
