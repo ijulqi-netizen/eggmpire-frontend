@@ -28,12 +28,12 @@ const navLinks: NavLink[] = [
     label: "Protocol Matrix",
     href: "#protocol",
     items: [
-      { label: "Documentation V4.0", href: "#" },
+      { label: "Gallery", href: "#" },
       {
-  label: "Whitepaper V1.2",
+  label: "Whitepaper",
   href: "https://eggmpire.gitbook.io/whitepaper/"
 },
-      { label: "Security Audit", href: "#" },
+      { label: "Personal Carbon Calculator", href: "#" },
       // { label: "Bug Bounty", href: "#" },
     ],
   },
@@ -41,7 +41,7 @@ const navLinks: NavLink[] = [
     label: "Ecosystem Core",
     href: "#ecosystem",
     items: [
-      { label: "Dashboard v1.0", href: "https://dashboard.eggmpire.com" },
+      { label: "Dashboard", href: "https://dashboard.eggmpire.com" },
       { label: "Swap Engine", href: "https://swap.eggmpire.com" },
       { label: "Claim Portal", href: "https://claim.eggmpire.com" },
       { label: "Lab Results", href: "#" },
