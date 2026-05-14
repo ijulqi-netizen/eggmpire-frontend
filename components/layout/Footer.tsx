@@ -34,9 +34,9 @@ const NAV_COLUMNS: {
   {
     label: "Protocol Matrix",
     links: [
-      { label: "Documentation V4.0", href: "#" },
-      { label: "Whitepaper V1.2", href: "#" },
-      { label: "Security Audit", href: "#" },
+      { label: "Gallery", href: "#" },
+      { label: "Whitepaper", href: "https://eggmpire.gitbook.io/whitepaper" },
+      { label: "Personal Carbon Calculator", href: "https://eggmpire.com/carbon-calculator/" },
     ],
   },
   {
