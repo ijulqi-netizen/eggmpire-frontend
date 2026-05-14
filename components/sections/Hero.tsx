@@ -183,6 +183,11 @@ export default function Hero() {
   EGGM Whitepaper
 </Link>
 
+</motion.div>
+                        <motion.div
+                          variants={staggerItem}
+                          className="flex-1 lg:flex-none"
+>
 <Link
   href="https://eggmpire.com/carbon-calculator/"
   target="_blank"

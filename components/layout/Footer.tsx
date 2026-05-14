@@ -34,7 +34,7 @@ const NAV_COLUMNS: {
   {
     label: "Protocol Matrix",
     links: [
-      { label: "Gallery", href: "#" },
+      { label: "Gallery", href: "https://back2.eggmpire.com/gallery" },
       { label: "Whitepaper", href: "https://eggmpire.gitbook.io/whitepaper" },
       { label: "Personal Carbon Calculator", href: "https://eggmpire.com/carbon-calculator/" },
     ],
@@ -42,10 +42,10 @@ const NAV_COLUMNS: {
   {
     label: "Ecosystem Core",
     links: [
-      { label: "Dashboard v1.0", href: "/dashboard" },
-      { label: "Swap Engine", href: "/swap" },
-      { label: "Claim Portal", href: "/claim" },
-      { label: "Lab Results", href: "#" },
+      { label: "Dashboard v1.0", href: "https://dashboard.eggmpire.com" },
+      { label: "Swap Engine", href: "https://swap.eggmpire.com" },
+      { label: "Claim Portal", href: "https://claim.eggmpire.com" },
+      { label: "Lab Results", href: "https://back2.eggmpire.com/lab-result" },
     ],
   },
 ];

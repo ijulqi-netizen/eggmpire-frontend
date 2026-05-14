@@ -45,7 +45,7 @@ const navLinks: NavLink[] = [
       { label: "Dashboard", href: "https://dashboard.eggmpire.com" },
       { label: "Swap Engine", href: "https://swap.eggmpire.com" },
       { label: "Claim Portal", href: "https://claim.eggmpire.com" },
-      { label: "Lab Results", href: "#" },
+      { label: "Lab Results", href: "https://back2.eggmpire.com/lab-result" },
     ],
   },
 ];
