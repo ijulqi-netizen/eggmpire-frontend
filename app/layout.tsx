@@ -34,6 +34,11 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <PageWrapper>{children}</PageWrapper>
+      <script
+  src="https://static.elfsight.com/platform/platform.js"
+  async
+></script>
+      
       </body>
     </html>
   );
