@@ -183,6 +183,13 @@ export default function Hero() {
   EGGM Whitepaper
 </Link>
 
+<Link
+  href="https://eggmpire.com/carbon-calculator/"
+  target="_blank"
+  className="flex items-center justify-center h-full w-full text-center px-4 xs:px-6 py-2.5 xs:py-3 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs xs:text-sm tracking-wide transition-colors rounded-[10px]"
+>
+  EGGM Carbon Calculator
+</Link>
                         </motion.div>
                         <motion.div
                           variants={staggerItem}

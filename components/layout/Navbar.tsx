@@ -28,14 +28,14 @@ const navLinks: NavLink[] = [
     label: "Protocol Matrix",
     href: "#protocol",
     items: [
-  { label: "Gallery", href: "#" },
+  { label: "Gallery", href: "https://back2.eggmpire.com/gallery" },
 
   {
     label: "Whitepaper",
     href: "https://eggmpire.gitbook.io/whitepaper/",
   },
 
-  { label: "Personal Carbon Calculator", href: "#" },
+  { label: "Personal Carbon Calculator", href: "https://eggmpire.com/carbon-calculator/" },
 ],
   },
   {
