@@ -9,7 +9,7 @@ import Team from "@/components/sections/Team";
 import TrustedBy from "@/components/sections/TrustedBy";
 import { BLUR_DATA_URL } from "@/lib/blurDataUrl";
 import Image from "next/image";
-import Sosmed from "@/components/sections/sosmed";
+
 
 export default function Home() {
   return (
@@ -32,13 +32,13 @@ export default function Home() {
       <Hero />
       <Introduction />
       <Mission />
-      <Sosmed />
       <Conversion />
       <TrustedBy />
       <Contracts />
       <Team />
       <Roadmap />
       <Contact />
+      
     </>
   );
 }
