@@ -201,7 +201,7 @@ export default function Hero() {
                           className="flex-1 lg:flex-none"
                         >
                           <Link
-                            href="https://www.canva.com/design/DAHE9Zf2Qe0/FXzvsA4SuCDVZLwlRwD1PQ/edit?utm_content=DAHE9Zf2Qe0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+                            href="https://back2.eggmpire.com/docs/eggm-deck-logo.pdf"
                             target="_blank"
                             className="flex items-center justify-center h-full w-full text-center px-4 xs:px-6 py-2.5 xs:py-3 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs xs:text-sm tracking-wide transition-colors rounded-[10px]"
                           >
