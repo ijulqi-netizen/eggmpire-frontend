@@ -55,7 +55,7 @@ const images = [
   category: "EGGMPIRE",
 },
 {
-  src: "/gallery/12.jpg",
+  src: "/gallery/12.png",
   title: "Muara Gembong Fresh Tiger Prawn and Crabs",
   category: "EGGMPIRE",
 },
