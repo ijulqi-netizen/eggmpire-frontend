@@ -29,6 +29,51 @@ const images = [
     title: "Close Cooperation with Local Governments",
     category: "EGGMPIRE",
   },
+  {
+  src: "/gallery/7.jpg",
+  title: "Thousands of Mangrove at Muara Gembong Planted",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/8.jpg",
+  title: "Mangroves Contributor to Carbon Absorption",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/9.jpg",
+  title: "EGGCOLOGIC Eggs for disaster emergency response",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/10.jpg",
+  title: "EGGCOLOGIC Eggs for Asmat Communities",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/11.jpg",
+  title: "EGGCOLOGIC Eggs arrive at Asmat communities byt the help of Army and Missionary Logistics",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/12.jpg",
+  title: "Muara Gembong Fresh Tiger Prawn and Crabs", ",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/16.jpg",
+  title: "Muara Project Net System",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/14.jpg",
+  title: "Recycle Bench made by 22k Bottle Caps",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/15.jpg",
+  title: "Rural Area Jobs Creation with Eggcologic Farm",
+  category: "EGGMPIRE",
+},
 ];
 
 export default function GalleryPage() {
