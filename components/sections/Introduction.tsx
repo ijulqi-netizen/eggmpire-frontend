@@ -76,6 +76,11 @@ export default function Introduction() {
                   impact from resource-intensive feed, making sustainable eggs
                   expensive and inaccessible. The supply chain often lacks
                   transparency.
+
+                  Many Environmental projects wait years to get ESG Certificates
+                  While the Contributors are eager to see the impact of their contribution
+                  to the world, and the need of contributors too have the certificate as fast
+                  so their gear of economy and society also can move well.
                 </p>
               </div>
             </div>
@@ -110,8 +115,9 @@ export default function Introduction() {
                   A scalable and sustainable eggs production model with a
                   self-sufficient ecosystem that provides over 70% of the
                   chicken&apos;s diet internally. This reduces costs and our
-                  carbon footprint. The $EGGM token provides a transparent,
-                  decentralized way to fund and scale our operations.
+                  carbon footprint. The $EGGM token provides an instant ESG Impact 
+                  Certificates and transparent Environment and Social Action execution
+                  and decentralized way to fund and scale EGGM operations.
                 </p>
               </div>
             </div>
