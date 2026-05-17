@@ -76,7 +76,7 @@ const images = [
 },
 {
     src: "/gallery/17.jpg",
-    title: "Eggs for Communities Rehebiilitation House",
+    title: "Eggs for Communities Rehabilitation House",
     category: "EGGMPIRE",
   },
   {
@@ -106,7 +106,7 @@ const images = [
   },
   {
   src: "/gallery/23.jpg",
-  title: "Give Recycle Bench made from 22k bottle cap to Citarum River receive by TNI Siliwangi",
+  title: "Give Recycle Bench made from 22k bottle cap to Citarum River Communities received by TNI Siliwangi",
   category: "EGGMPIRE",
 },
 {
@@ -116,7 +116,7 @@ const images = [
 },
 {
   src: "/gallery/25.jpg",
-  title: "Citarum Harum 2nd Anniversary with Alm Luitenant General Doni Monardo",
+  title: "Citarum Harum 2nd Anniversary with Alm Liutenant General Doni Monardo",
   category: "EGGMPIRE",
 },
 {
@@ -130,7 +130,7 @@ const images = [
   category: "EGGMPIRE",
 },
 {
-  src: "/gallery/28.png",
+  src: "/gallery/28.jpg",
   title: "EGGCOLOGIC Eggs for Muara Gembong Communities",
   category: "EGGMPIRE",
 },
@@ -146,7 +146,7 @@ const images = [
 },
 {
   src: "/gallery/31.jpg",
-  title: "Colabs with Our Good Friend Gary Bencheghib of Sungai watch",
+  title: "Colabs with Our Good Friend Gary Bencheghib of Sungai Watch",
   category: "EGGMPIRE",
 },
 ];
