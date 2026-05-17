@@ -50,7 +50,7 @@ export default function Mission() {
       className="relative bg-[#1F1F1F] pt-17.5 px-4 xs:px-6 overflow-hidden"
     >
       <div className="relative max-w-6xl mx-auto pb-8">
-        <div className="">
+       
           <FadeIn direction="up" delay={0.7} className="pb-10">
             <div className="flex items-center gap-10">
               <div className="w-3 h-3 rounded-full bg-gold shrink-0" />
@@ -60,21 +60,37 @@ export default function Mission() {
             </div>
           </FadeIn>
 
-          <FadeIn direction="up" delay={0.2} className="pb-9.25">
-            <h3 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-heading font-extrabold text-white tracking-tight text-wrap">
-              PLANET.PEOPLE.<span>PROFIT.</span>
-            </h3>
-          </FadeIn>
+         <FadeIn direction="up" delay={0.2} className="pb-9">
+  <div className="space-y-4">
+    <h3 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-heading font-extrabold text-white tracking-tight leading-tight">
+      <span className="block">PLANET</span>
+      <span className="block">PEOPLE</span>
+      <span className="block">PROFIT</span>
+    </h3>
+  </div>
+</FadeIn>
 
-          <FadeIn direction="up" delay={0.3}>
-            <p className="text-white/80 text-lg md:text-xl leading-relaxed max-w-4xl">
-              EGGMPIRE Token (EGGM) is a 3P Token: 
-              Planet = Sustainability of Environment, 
-              People = Social Economy, 
-              Profit = Prosperity is key to Sustainability.
-            </p>
-          </FadeIn>
-        </div>
+<FadeIn direction="up" delay={0.3}>
+  <div className="space-y-4 text-white/80 text-base sm:text-lg md:text-xl leading-relaxed max-w-4xl">
+    
+    <p>
+      EGGMPIRE Token (EGGM) is a 3P Token:
+    </p>
+
+    <p>
+      <span className="font-bold text-white">PLANET</span> = Sustainability of Environment.
+    </p>
+
+    <p>
+      <span className="font-bold text-white">PEOPLE</span> = Social Economy Growth.
+    </p>
+
+    <p>
+      <span className="font-bold text-white">PROFIT</span> = Prosperity is The KEY to Sustainability.
+    </p>
+
+  </div>
+</FadeIn>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 items-stretch pt-25">
           {missionCards.map((card, index) => (

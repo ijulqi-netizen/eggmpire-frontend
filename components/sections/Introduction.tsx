@@ -24,7 +24,7 @@ export default function Introduction() {
             <div className="flex items-center gap-10">
               <div className="w-3 h-3 rounded-full bg-gold shrink-0" />
               <h2 className="text-2xl text-white tracking-wider font-semibold">
-                WHAT Is EGGMPIRE Token (EGGM)
+                What is EGGMPIRE Token (EGGM)
               </h2>
             </div>
           </FadeIn>

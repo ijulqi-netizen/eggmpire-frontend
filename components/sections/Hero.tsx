@@ -132,10 +132,10 @@ export default function Hero() {
                               Real Impact. Real Assets.
                             </p>
                             <p className="text-white/70 text-xs xs:text-sm leading-5 xs:leading-6">
-                              We remove 16 tons of daily waste.
+                              We remove tons of daily waste.
                             </p>
                             <p className="text-white/70 text-xs xs:text-sm leading-5 xs:leading-6">
-                              We supply hundreds of kilograms of fresh eggs.
+                              We supply hundreds of kilograms of fresh eggs daily.
                             </p>
                           </div>
                         </FadeIn>
