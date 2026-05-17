@@ -9,13 +9,14 @@ import Link from "next/link";
 // ─── Constants ────────────────────────────────────────────────────────────────
 
 const SOCIAL_LINKS = [
-  { src: "/icons/x-icon.svg", alt: "X", href: "#" },
+  { src: "/icons/x-icon.svg", alt: "X", href: "https://x.com/Eggmpire3P" },
   {
     src: "/icons/ig-icon.svg",
     alt: "Instagram",
     href: "https://www.instagram.com/eggmpire/",
   },
-  { src: "/icons/tt-icon.svg", alt: "TikTok", href: "#" },
+  { src: "/icons/tt-icon.svg", alt: "TikTok", href: "https://www.tiktok.com/@eggmpiretoken" },
+{ src: "/icons/telegram-icon.svg", alt: "Telegram", href: "https://t.me/eggmpire" },
 ];
 
 const NAV_COLUMNS: {

@@ -74,6 +74,81 @@ const images = [
   title: "Rural Area Jobs Creation with Eggcologic Farm",
   category: "EGGMPIRE",
 },
+{
+    src: "/gallery/17.jpg",
+    title: "Kids Education on field for the Hope",
+    category: "EGGMPIRE",
+  },
+  {
+    src: "/gallery/18.jpg",
+    title: "Boat for River Communities",
+    category: "EGGMPIRE",
+  },
+  {
+    src: "/gallery/19.jpg",
+    title: "Every Week Eggs for Healtier Communities",
+    category: "EGGMPIRE",
+  },
+  {
+    src: "/gallery/20.jpg",
+    title: "Egg Farm Inspection",
+    category: "EGGMPIRE",
+  },
+  {
+    src: "/gallery/21.jpg",
+    title: "Reforest at Disaster Zones",
+    category: "EGGMPIRE",
+  },
+  {
+    src: "/gallery/22.jpg",
+    title: "Close Cooperation with Local Governments",
+    category: "EGGMPIRE",
+  },
+  {
+  src: "/gallery/23.jpg",
+  title: "Thousands of Mangrove at Muara Gembong Planted",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/24.jpg",
+  title: "Mangroves Contributor to Carbon Absorption",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/25.jpg",
+  title: "EGGCOLOGIC Eggs for disaster emergency response",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/26.jpg",
+  title: "EGGCOLOGIC Eggs for Asmat Communities",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/27.jpg",
+  title: "EGGCOLOGIC Eggs arrive at Asmat communities byt the help of Army and Missionary Logistics",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/28.png",
+  title: "Muara Gembong Fresh Tiger Prawn and Crabs",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/29.jpg",
+  title: "Muara Project Net System",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/30.jpg",
+  title: "Recycle Bench made by 22k Bottle Caps",
+  category: "EGGMPIRE",
+},
+{
+  src: "/gallery/31.jpg",
+  title: "Rural Area Jobs Creation with Eggcologic Farm",
+  category: "EGGMPIRE",
+},
 ];
 
 export default function GalleryPage() {
