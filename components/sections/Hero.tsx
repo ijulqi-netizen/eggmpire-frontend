@@ -17,9 +17,9 @@ import { BLUR_DATA_URL } from "@/lib/blurDataUrl";
 import Link from "next/link";
 
 const stats = [
-  { value: "+1M", label: "Eggs Distributed" },
-  { value: "+1K", label: "Tree Planted" },
-  { value: "+10K", label: "generation saved from stunting" },
+  { value: "+4M", label: "Eggcologic Eggs Produced" },
+  { value: "+20K", label: "Trees Planted" },
+  { value: "+40K", label: "Social Economy Eggs Distributed" },
 ];
 
 const impactCards = [
