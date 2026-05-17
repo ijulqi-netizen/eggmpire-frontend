@@ -22,7 +22,7 @@ const results = [
   {
     src: "/lab/5.png",
     title: "BPMSPH (Balai Pengujian Mutu dan Sertifikasi Produk Hewan) Lab Test of Food Security",
-    description: "Omega 3, 6 and 9 + Vitamin A, B2, B5, D3, E, K1.",
+    description: "Please use the QR code on the certificate for check of authentificate.",
   },
   {
     src: "/lab/6.png",
@@ -61,8 +61,8 @@ export default function LabResultPage() {
           </h1>
 
           <p className="text-gray-400 max-w-3xl mx-auto text-lg leading-relaxed">
-            Every batch of EGGM is rigorously tested in our EGGCOLOGIC laboratories
-            to ensure premium quality, food safety, and sustainability standards.
+            To ensure premium quality, food safety, and sustainability standards EGGCOLOGIC need to pass this strict Lab Test.
+            
           </p>
         </div>
 
