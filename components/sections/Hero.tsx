@@ -167,13 +167,13 @@ export default function Hero() {
 
                       {/* ── CTAs — stagger from below ── */}
                       <StaggerContainer
-                        className="order-3 flex flex-row lg:flex-col items-stretch gap-3 w-full lg:w-auto lg:min-w-50"
+                        className="order-3 flex flex-col items-center gap-3 w-full lg:w-auto lg:min-w-[220px]"
                         stagger={0.12}
                         delayChildren={0.4}
                       >
                         <motion.div
                           variants={staggerItem}
-                          className="flex-1 lg:flex-none"
+                          className="w-full max-w-[280px] mx-auto lg:max-w-none"
                         >
 <Link
   href="https://eggmpire.gitbook.io/whitepaper/"
@@ -186,8 +186,8 @@ export default function Hero() {
 </motion.div>
                         <motion.div
                           variants={staggerItem}
-                          className="flex-1 lg:flex-none"
->
+                          className="w-full max-w-[280px] mx-auto lg:max-w-none"
+                        >
 <Link
   href="https://eggmpire.com/carbon-calculator/"
   target="_blank"
