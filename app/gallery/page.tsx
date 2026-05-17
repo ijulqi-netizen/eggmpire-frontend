@@ -1,7 +1,7 @@
 const images = [
   {
     src: "/gallery/1.jpg",
-    title: "Kids Trees Planting Education on field for the Hope",
+    title: "Kids Trees Planting Education on field",
     category: "EGGMPIRE",
   },
   {
@@ -121,7 +121,7 @@ const images = [
 },
 {
   src: "/gallery/26.jpg",
-  title: "Boat Donating for Citarum River Communities",
+  title: "The EGGCOLOGIC Eggs",
   category: "EGGMPIRE",
 },
 {
