@@ -17,9 +17,9 @@ import { BLUR_DATA_URL } from "@/lib/blurDataUrl";
 import Link from "next/link";
 
 const stats = [
-  { value: "+4M", label: "EGGCOLOGIC EGGS Produced" },
-  { value: "+20k", label: "Trees Planted" },
-  { value: "+40K", label: "Social Economy Eggs Distributed" },
+  { value: "+1M", label: "Eggs Distributed" },
+  { value: "+1K", label: "Tree Planted" },
+  { value: "+10K", label: "generation saved from stunting" },
 ];
 
 const impactCards = [
@@ -143,14 +143,16 @@ export default function Hero() {
                         {/* Stats — stagger each counter */}
                         <div className="flex flex-col gap-3">
                           <StaggerContainer
-  className="order-3 flex flex-col items-stretch gap-3 w-full lg:w-auto lg:min-w-[220px]"
-  stagger={0.12}
-  delayChildren={0.4}
->
-  <motion.div
-    variants={staggerItem}
-    className="w-full max-w-[280px] mx-auto lg:max-w-none"
-  >
+                            className="flex gap-6 xs:gap-8 lg:gap-10"
+                            stagger={0.12}
+                            delayChildren={0.35}
+                          >
+                            {stats.map((s) => (
+                              <motion.div
+                                key={s.label}
+                                variants={staggerItem}
+                                className="text-center"
+                              >
                                 <p className="font-heading font-bold text-lg xs:text-xl lg:text-2xl text-white">
                                   <CountUp value={s.value} />
                                 </p>
