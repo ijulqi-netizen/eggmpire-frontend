@@ -32,7 +32,10 @@ export default function Introduction() {
           <div className="space-y-6">
             <FadeIn direction="up" delay={0.2}>
               <p className="text-white/80 text-lg md:text-xl leading-relaxed">
-                The EggMpire Token (EGGM) is a blockchain-based project
+                The EggMpire Token (EGGM) is a blockchain-based project that using
+                the power of Web3 to revolutionize the Climate Action and Social 
+                Economy by gathering Contibutors that are passionate about 
+                Environmental and Social Impact, and one of the ability of EGGM is 
                 transforming the egg production industry by integrating
                 sustainable bio converstion, eco-friendly farming practices with
                 a decentralized digital economy.
