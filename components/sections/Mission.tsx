@@ -11,7 +11,7 @@ const missionCards = [
       "Environmental sustainability through bio-conversion. Egg Production using Bio Conversion is our way to prevent methane gas to enter the atmosphere.",
     icon: Globe,
     metricLabel: "Impact Metric",
-    metricValue: "420K Tons CO2",
+    metricValue: " Prevent 584 Tons of CH4 Emission (Methane Gas)",
     delay: 0.1,
   },
   {
@@ -20,7 +20,7 @@ const missionCards = [
       "Social economy empowerment. Tokenizing sustainable eggs production through blockchain to ensure food security and community prosperity.",
     icon: Users,
     metricLabel: "Social Impact",
-    metricValue: "1.2M Eggs Donated",
+    metricValue: "40k+ Eggs Donated",
     delay: 0.2,
   },
   {
@@ -29,7 +29,7 @@ const missionCards = [
       "Prosperity is key to sustainability. Our protocol ensures that environmental stewardship is the most profitable path for all stakeholders.",
     icon: Activity,
     metricLabel: "Yield Target",
-    metricValue: "12.4% APY",
+    metricValue: "21.8% APY",
     delay: 0.3,
   },
 ];
@@ -68,9 +68,10 @@ export default function Mission() {
 
           <FadeIn direction="up" delay={0.3}>
             <p className="text-white/80 text-lg md:text-xl leading-relaxed max-w-4xl">
-              EGGMPIRE Token (EGGM) is a 3P Token: Planet = Sustainability of
-              Environment, People = Social Economy, Profit = Prosperity is key
-              to Sustainability.
+              EGGMPIRE Token (EGGM) is a 3P Token: 
+              Planet = Sustainability of Environment, 
+              People = Social Economy, 
+              Profit = Prosperity is key to Sustainability.
             </p>
           </FadeIn>
         </div>
