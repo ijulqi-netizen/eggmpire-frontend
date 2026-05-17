@@ -1,7 +1,7 @@
 const images = [
   {
     src: "/gallery/1.jpg",
-    title: "Kids Education on field for the Hope",
+    title: "Kids Trees Planting Education on field for the Hope",
     category: "EGGMPIRE",
   },
   {
@@ -51,7 +51,7 @@ const images = [
 },
 {
   src: "/gallery/11.jpg",
-  title: "EGGCOLOGIC Eggs arrive at Asmat communities byt the help of Army and Missionary Logistics",
+  title: "EGGCOLOGIC Eggs arrive at Asmat communities by the help of Army and Missionary Logistics",
   category: "EGGMPIRE",
 },
 {
@@ -76,77 +76,77 @@ const images = [
 },
 {
     src: "/gallery/17.jpg",
-    title: "Kids Education on field for the Hope",
+    title: "Eggs for Communities Rehebiilitation House",
     category: "EGGMPIRE",
   },
   {
     src: "/gallery/18.jpg",
-    title: "Boat for River Communities",
+    title: "Eggs for Citarum River Communities",
     category: "EGGMPIRE",
   },
   {
     src: "/gallery/19.jpg",
-    title: "Every Week Eggs for Healtier Communities",
+    title: "Cooperate Sign with WALHI National",
     category: "EGGMPIRE",
   },
   {
     src: "/gallery/20.jpg",
-    title: "Egg Farm Inspection",
+    title: "Flossie & The Beach Cleaners Ireland Collaboration in Citarum",
     category: "EGGMPIRE",
   },
   {
     src: "/gallery/21.jpg",
-    title: "Reforest at Disaster Zones",
+    title: "Reforestation at Citarum River Banks",
     category: "EGGMPIRE",
   },
   {
     src: "/gallery/22.jpg",
-    title: "Close Cooperation with Local Governments",
+    title: "Collaboration with Local Communities and Army at Citarum River Area",
     category: "EGGMPIRE",
   },
   {
   src: "/gallery/23.jpg",
-  title: "Thousands of Mangrove at Muara Gembong Planted",
+  title: "Give Recycle Bench made from 22k bottle cap to Citarum River receive by TNI Siliwangi",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/24.jpg",
-  title: "Mangroves Contributor to Carbon Absorption",
+  title: "Trees Planting crowd fund using 1 Tree 1 Shirt Programme",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/25.jpg",
-  title: "EGGCOLOGIC Eggs for disaster emergency response",
+  title: "Citarum Harum 2nd Anniversary with Alm Luitenant General Doni Monardo",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/26.jpg",
-  title: "EGGCOLOGIC Eggs for Asmat Communities",
+  title: "Boat Donating for Citarum River Communities",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/27.jpg",
-  title: "EGGCOLOGIC Eggs arrive at Asmat communities byt the help of Army and Missionary Logistics",
+  title: "Kids Comforting Programme when the Baleendah Area Flooding",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/28.png",
-  title: "Muara Gembong Fresh Tiger Prawn and Crabs",
+  title: "EGGCOLOGIC Eggs for Muara Gembong Communities",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/29.jpg",
-  title: "Muara Project Net System",
+  title: "Adopt Trees Programme with Bandung Intercultural School",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/30.jpg",
-  title: "Recycle Bench made by 22k Bottle Caps",
+  title: "Podcast with Finance and Crypto Expert Mr Aidil Madjid Akbar",
   category: "EGGMPIRE",
 },
 {
   src: "/gallery/31.jpg",
-  title: "Rural Area Jobs Creation with Eggcologic Farm",
+  title: "Colabs with Our Good Friend Gary Bencheghib of Sungai watch",
   category: "EGGMPIRE",
 },
 ];

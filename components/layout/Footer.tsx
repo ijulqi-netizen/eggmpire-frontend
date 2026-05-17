@@ -16,7 +16,7 @@ const SOCIAL_LINKS = [
     href: "https://www.instagram.com/eggmpire/",
   },
   { src: "/icons/tt-icon.svg", alt: "TikTok", href: "https://www.tiktok.com/@eggmpiretoken" },
-{ src: "/icons/telegram-icon.svg", alt: "Telegram", href: "https://t.me/eggmpire" },
+{ src: "/icons/telegram.svg", alt: "Telegram", href: "https://t.me/eggmpire" },
 ];
 
 const NAV_COLUMNS: {
