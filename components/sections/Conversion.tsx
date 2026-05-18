@@ -22,7 +22,7 @@ export default function Conversion() {
             <FadeIn direction="left" delay={0.1}>
               <div className="relative rounded-3xl overflow-hidden w-full aspect-9/16">
                 <iframe
-                  src="hhttps://youtube.com/shorts/kW2mfvImjDI?si=2qao2Q8LFiViBb5R"
+                  src="https://www.youtube.com/embed/kW2mfvImjDI"
                   title="Eggcologic Bio Conversion"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
