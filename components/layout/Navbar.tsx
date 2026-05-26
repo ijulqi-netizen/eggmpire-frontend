@@ -271,9 +271,9 @@ export default function Navbar() {
               href="https://swap.eggmpire.com"
               className="px-3 xs:px-4 py-1 xs:py-1.5 bg-[#8D6207] hover:bg-[#8D6207]/80 text-white font-heading font-bold text-xs tracking-widest uppercase rounded-full transition-colors whitespace-nowrap text-center"
             >
-              <span>Enter The</span>
+              <span>Swap & Enter</span>
               <br />
-              EGGM Economy
+              The EGGM Economy
             </Link>
           </div>
         </nav>
