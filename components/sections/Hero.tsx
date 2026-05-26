@@ -129,7 +129,7 @@ export default function Hero() {
                         <FadeIn direction="up" delay={0.25}>
                           <div className="font-sans">
                             <p className="text-white text-xl xs:text-2xl sm:text-3xl font-semibold mb-2 leading-tight">
-                              EGGM ECONOMY GROWTH HEALS NATURE.
+                              EGGM ECONOMY: GROWTH HEALS NATURE.
                             </p>
                             <p className="text-white/70 text-xs xs:text-sm leading-5 xs:leading-6">
                               We remove tons of daily waste.
