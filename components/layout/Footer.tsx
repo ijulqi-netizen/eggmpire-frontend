@@ -117,7 +117,7 @@ export default function Footer() {
 
             {/* Tagline */}
             <p className="text-xs text-white/40 text-center md:text-left leading-relaxed max-w-45">
-              Sustainable token ecosystem built for real-world impact.
+              Equator Bumi Lestari Foundation
             </p>
 
             {/* Socials */}
