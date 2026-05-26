@@ -116,7 +116,7 @@ export default function Footer() {
             </div>
 
             {/* Tagline */}
-            <p className="text-xs text-white/40 text-center md:text-left leading-relaxed max-w-45">
+            <p className="text-base sm:text-lg font-semibold text-yellow-100 tracking-wide">
               Equator Bumi Lestari Foundation
             </p>
 
