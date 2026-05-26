@@ -123,7 +123,7 @@ export default function Footer() {
             {/* Social Media */}
             <div>
               <p className="text-xs text-gray-500 mb-3 tracking-widest font-bold flex items-center gap-1 justify-center md:justify-start">
-                <span className="text-2xl leading-none">•</span> Socials
+                <span className="text-2xl leading-none">•</span> Social Media
               </p>
               <div className="flex gap-3 justify-center md:justify-start">
                 {SOCIAL_LINKS.map((social) => (
