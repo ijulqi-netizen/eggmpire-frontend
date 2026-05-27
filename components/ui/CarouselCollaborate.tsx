@@ -27,7 +27,7 @@ export default function CarouselCollaborate() {
   return (
     <div className="">
       <p className="text-xs md:text-sm font-medium mb-8 text-white/60 text-center md:text-left">
-        Collaborate With
+        EGGM, EQ2, EGGCOLOGIC Collaborate & Trusted by:
       </p>
       <div className="w-full overflow-hidden">
         <motion.div ref={trackRef} className="flex" style={{ x }}>
