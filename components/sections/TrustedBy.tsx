@@ -14,7 +14,7 @@ const trustedItems = [
   },
   {
     src: "/images/trusted-3.jpg",
-    caption: "With Gery Bencheghib at Watch River",
+    caption: "With Gary Bencheghib at Sungai Watch",
   },
   {
     src: "/images/trusted-4.jpg",
