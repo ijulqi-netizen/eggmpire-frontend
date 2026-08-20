@@ -19,17 +19,17 @@ const CONTRACTS = [
     id: 2,
     title: "Vesting EGGM Smart Contract",
     address:
-      "https://etherscan.io/address/0xcc5e0c76ce187f0ba7f0e3aa44f2ef80a11fa9e6",
+      "https://etherscan.io/address/0x0a4cb6d5f0894842904ebad29484cd7fd3c62b4c",
     explorer:
-      "https://etherscan.io/address/0xcc5e0c76ce187f0ba7f0e3aa44f2ef80a11fa9e6",
+      "https://etherscan.io/address/0x0a4cb6d5f0894842904ebad29484cd7fd3c62b4c",
   },
   {
     id: 3,
     title: "Presale EGGM Smart Contract",
     address:
-      "https://etherscan.io/address/0x25fdecc04438217050475fe6273419118ac02e41",
+      "https://etherscan.io/address/0xfAD796B0ce89535f691AbE2F8aEB5A9E8e3d2081",
     explorer:
-      "https://etherscan.io/address/0x25fdecc04438217050475fe6273419118ac02e41",
+      "https://etherscan.io/address/0xfAD796B0ce89535f691AbE2F8aEB5A9E8e3d2081",
   },
 ];
 
